@@ -2,3 +2,4 @@ flower.png,[false,false,false,false],[false,false,false,false],[false,false,fals
 facerev.jpg,[true,true,true,true],[false,false,false,false],[true,false,false,false]
 sponge.jpeg,[true,true,true,true],[false,false,false,false],[true,false,false,false]
 patrick.jpeg,[true,true,true,true],[false,false,false,false],[true,false,false,false]
+Screenshot 2026-04-29 09.06.46.png,[true,true,true,true],[false,false,false,false],[true,false,false,false]
